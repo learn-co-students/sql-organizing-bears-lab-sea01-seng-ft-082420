@@ -26,3 +26,4 @@ class SQLRunner
     @db.execute_batch(sql)
   end
 end
+
